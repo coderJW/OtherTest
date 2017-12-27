@@ -14,16 +14,19 @@ PODS:
   - AFNetworking/Serialization (3.0.4)
   - AFNetworking/UIKit (3.0.4):
     - AFNetworking/NSURLSession
+  - IQKeyboardManager (3.3.7)
   - MBProgressHUD (0.9.2)
 
 DEPENDENCIES:
   - AFNetworking (~> 3.0.4)
+  - IQKeyboardManager (~> 3.3.7)
   - MBProgressHUD (~> 0.9.2)
 
 SPEC CHECKSUMS:
   AFNetworking: a0075feb321559dc78d9d85b55d11caa19eabb93
+  IQKeyboardManager: 249c3946acf61345c18b038eb50863fe2793e3a8
   MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
 
-PODFILE CHECKSUM: f1be628af90a9c01d02975bd519c900108a775a4
+PODFILE CHECKSUM: 3f42c7fb5be21f41a17452f73a84602d111e3007
 
 COCOAPODS: 1.4.0.beta.2
